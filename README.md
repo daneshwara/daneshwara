@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daneshwara
 - 👀 I’m interested in ... UI Designing
 - 🌱 I’m currently learning ... C#, SQL
-- 💞️ I’m looking to collaborate on ... any Company
+- 💞️ I’m looking to collaborate on ... any Developer
 - 📫 How to reach me ... https://www.facebook.com/DaneshwaraVidulanga/ or https://paypal.me/daneshwara
 
 <!---
